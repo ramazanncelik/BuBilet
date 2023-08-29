@@ -3,11 +3,11 @@
 
  ## Örnek Tablo
 
-| Adı           | Yaşı           | Mesleği        |
-| ------------- | -------------- | -------------- |
-| Ahmet         | 30             | Yazılımcı      |
-| Ayşe          | 28             | Tasarımcı      |
-| Mehmet        | 35             | Proje Yöneticisi |
+| Kütüphane Adı           | Yaşı           |
+| ------------- | -------------- |
+| Ahmet         | 30             |
+| Ayşe          | 28             |
+| Mehmet        | 35             |
 
 
  ## Projeyi Çalıştırma Aşaması
