@@ -168,7 +168,7 @@ const styles = StyleSheet.create({
     alignItems: 'center'
   },
   button: {
-    backgroundColor: '#3498db',
+    backgroundColor: '#3b82f6',
     paddingVertical: 10,
     paddingHorizontal: 20,
     borderRadius: 5,

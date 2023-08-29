@@ -129,6 +129,7 @@ const SignUp = () => {
 
         <View style={styles.textInputView}>
           <TextInput
+            maxLength={11}
             keyboardType="number-pad"
             style={styles.textInput}
             placeholder={'TC Kimlik Numarası'}

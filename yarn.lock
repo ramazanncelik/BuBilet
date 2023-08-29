@@ -1170,13 +1170,6 @@
     "@babel/helper-validator-identifier" "^7.22.5"
     to-fast-properties "^2.0.0"
 
-"@egjs/hammerjs@^2.0.17":
-  version "2.0.17"
-  resolved "https://registry.yarnpkg.com/@egjs/hammerjs/-/hammerjs-2.0.17.tgz#5dc02af75a6a06e4c2db0202cae38c9263895124"
-  integrity sha512-XQsZgjm2EcVUiZQf11UBJQfmZeEmOW8DpI1gsFeln6w0ae0ii4dMQEQ0kjl6DspdWX1aGY1/loyXnP0JS06e/A==
-  dependencies:
-    "@types/hammerjs" "^2.0.36"
-
 "@expo/bunyan@4.0.0", "@expo/bunyan@^4.0.0":
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/@expo/bunyan/-/bunyan-4.0.0.tgz#be0c1de943c7987a9fbd309ea0b1acd605890c7b"
@@ -1906,15 +1899,6 @@
     react-is "^16.13.0"
     use-latest-callback "^0.1.5"
 
-"@react-navigation/drawer@^6.6.3":
-  version "6.6.3"
-  resolved "https://registry.yarnpkg.com/@react-navigation/drawer/-/drawer-6.6.3.tgz#ad48b3e0a2d2771e7fc8bc46a8b269ef2ae11e54"
-  integrity sha512-oQzHqH6svtSIun6+rikQtku6ye2CyyxT4xf3RQLVsBvK7+g4tDdKKLcjgoJmuT1zBZC3SSu3wNeqp8cg4cr2PQ==
-  dependencies:
-    "@react-navigation/elements" "^1.3.18"
-    color "^4.2.3"
-    warn-once "^0.1.0"
-
 "@react-navigation/elements@^1.3.18":
   version "1.3.18"
   resolved "https://registry.yarnpkg.com/@react-navigation/elements/-/elements-1.3.18.tgz#d8364b40276f3efb9c229c39da3b8b465f18f0a2"
@@ -1998,11 +1982,6 @@
   integrity sha512-V4BG07kuYSUkTCSBHG8G8TNhM+F19jXFWnQtzj+we8DrkpSBCee9Z3Ms8yiGer/dlmhe35/Xdgyo3/0rQKg7YA==
   dependencies:
     "@sinonjs/commons" "^3.0.0"
-
-"@types/hammerjs@^2.0.36":
-  version "2.0.41"
-  resolved "https://registry.yarnpkg.com/@types/hammerjs/-/hammerjs-2.0.41.tgz#f6ecf57d1b12d2befcce00e928a6a097c22980aa"
-  integrity sha512-ewXv/ceBaJprikMcxCmWU1FKyMAQ2X7a9Gtmzw8fcg2kIePI1crERDM818W+XYrxqdBBOdlf2rm137bU+BltCA==
 
 "@types/hoist-non-react-statics@^3.3.1":
   version "3.3.1"
@@ -2739,26 +2718,10 @@ color-name@1.1.3:
   resolved "https://registry.yarnpkg.com/color-name/-/color-name-1.1.3.tgz#a7d0558bd89c42f795dd42328f740831ca53bc25"
   integrity sha512-72fSenhMw2HZMTVHeCA9KCmpEIbzWiQsjN+BHcBbS9vr1mtt+vJjPdksIBNUmKAW8TFUDPJK5SUU3QhE9NEXDw==
 
-color-name@^1.0.0, color-name@~1.1.4:
+color-name@~1.1.4:
   version "1.1.4"
   resolved "https://registry.yarnpkg.com/color-name/-/color-name-1.1.4.tgz#c2a09a87acbde69543de6f63fa3995c826c536a2"
   integrity sha512-dOy+3AuW3a2wNbZHIuMZpTcgjGuLU/uBL/ubcZF9OXbDo8ff4O8yVp5Bf0efS8uEoYo5q4Fx7dY9OgQGXgAsQA==
-
-color-string@^1.9.0:
-  version "1.9.1"
-  resolved "https://registry.yarnpkg.com/color-string/-/color-string-1.9.1.tgz#4467f9146f036f855b764dfb5bf8582bf342c7a4"
-  integrity sha512-shrVawQFojnZv6xM40anx4CkoDP+fZsw/ZerEMsW/pyzsRbElpsL/DBVW7q3ExxwusdNXI3lXpuhEZkzs8p5Eg==
-  dependencies:
-    color-name "^1.0.0"
-    simple-swizzle "^0.2.2"
-
-color@^4.2.3:
-  version "4.2.3"
-  resolved "https://registry.yarnpkg.com/color/-/color-4.2.3.tgz#d781ecb5e57224ee43ea9627560107c0e0c6463a"
-  integrity sha512-1rXeuUUiGGrykh+CeBdu5Ie7OJwinCgQY0bc7GCRxy5xVHy+moaqkpL/jqQq0MtQOeYcrqEz4abc5f0KtU7W4A==
-  dependencies:
-    color-convert "^2.0.1"
-    color-string "^1.9.0"
 
 colorette@^1.0.7:
   version "1.4.0"
@@ -3874,11 +3837,6 @@ is-arrayish@^0.2.1:
   version "0.2.1"
   resolved "https://registry.yarnpkg.com/is-arrayish/-/is-arrayish-0.2.1.tgz#77c99840527aa8ecb1a8ba697b80645a7a926a9d"
   integrity sha512-zz06S8t0ozoDXMG+ube26zeCTNXcKIPJZJi8hBrF4idCLms4CG9QtK7qBl1boi5ODzFpjswb5JPmHCbMpjaYzg==
-
-is-arrayish@^0.3.1:
-  version "0.3.2"
-  resolved "https://registry.yarnpkg.com/is-arrayish/-/is-arrayish-0.3.2.tgz#4574a2ae56f7ab206896fb431eaeed066fdf8f03"
-  integrity sha512-eVRqCvVlZbuw3GrM63ovNSNAeA1K16kaR/LRY/92w0zxQ5/1YzwblUX652i4Xs9RwAGjW9d9y6X88t8OaAJfWQ==
 
 is-buffer@~1.1.1, is-buffer@~1.1.6:
   version "1.1.6"
@@ -5569,17 +5527,6 @@ react-is@^17.0.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-17.0.2.tgz#e691d4a8e9c789365655539ab372762b0efb54f0"
   integrity sha512-w2GsyukL62IJnlaff/nRegPQR94C/XXamvMWmSHRJ4y7Ts/4ocGRmTHvOs8PSE6pB3dWOrD/nueuU5sduBsQ4w==
 
-react-native-gesture-handler@~2.12.0:
-  version "2.12.1"
-  resolved "https://registry.yarnpkg.com/react-native-gesture-handler/-/react-native-gesture-handler-2.12.1.tgz#f11a99fb95169810c6886fad5efa01a17fd81660"
-  integrity sha512-deqh36bw82CFUV9EC4tTo2PP1i9HfCOORGS3Zmv71UYhEZEHkzZv18IZNPB+2Awzj45vLIidZxGYGFxHlDSQ5A==
-  dependencies:
-    "@egjs/hammerjs" "^2.0.17"
-    hoist-non-react-statics "^3.3.0"
-    invariant "^2.2.4"
-    lodash "^4.17.21"
-    prop-types "^15.7.2"
-
 react-native-modal-datetime-picker@^17.1.0:
   version "17.1.0"
   resolved "https://registry.yarnpkg.com/react-native-modal-datetime-picker/-/react-native-modal-datetime-picker-17.1.0.tgz#74291bf92b830be285752f437841f52885c90e0b"
@@ -6092,13 +6039,6 @@ simple-plist@^1.1.0:
     bplist-creator "0.1.0"
     bplist-parser "0.3.1"
     plist "^3.0.5"
-
-simple-swizzle@^0.2.2:
-  version "0.2.2"
-  resolved "https://registry.yarnpkg.com/simple-swizzle/-/simple-swizzle-0.2.2.tgz#a4da6b635ffcccca33f70d17cb92592de95e557a"
-  integrity sha512-JA//kQgZtbuY83m+xT+tXJkmJncGMTFT+C+g2h2R9uxkYIrE2yy9sgmcLhCnw57/WSD+Eh3J97FPEDFnbXnDUg==
-  dependencies:
-    is-arrayish "^0.3.1"
 
 sisteransi@^1.0.5:
   version "1.0.5"

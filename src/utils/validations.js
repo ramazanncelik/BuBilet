@@ -1,5 +1,4 @@
 import { object, string, ref } from 'yup';
-import { language } from './utils';
 
 
 export const signUpValidations = object({

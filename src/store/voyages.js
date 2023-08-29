@@ -10,7 +10,7 @@ const initialState = {
             price: 500,
             emptySeat: 44,
             totalSeatNumber: 49,
-            date: "28/09/2023",
+            date: "28/10/2023",
             time: "17:05",
             seatNumbersTaken: [
                 {
