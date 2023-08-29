@@ -1,9 +1,9 @@
 # BuBilet
  React Native kullanarak yapmış olduğum otobüs bileti alma uygulaması
 
- ## Örnek Tablo
+ ## Kullandığım Teknolojiler
 
-| Kütüphane Adı                             | Versiyon       |
+| Adı                                       | Versiyonu      |
 | ----------------------------------------- | -------------- |
 | @expo/vector-icons                        | ^13.0.0        |
 | @react-native-async-storage/async-storage | 1.18.2         |
