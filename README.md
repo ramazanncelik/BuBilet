@@ -1,6 +1,13 @@
 # BuBilet
  React Native kullanarak yapmış olduğum otobüs bileti alma uygulaması
 
+## Statik Olarak Tutulan Yolculuklar
+
+| Nereden  | Nereye  | Hangi Tarihte  |
+| -------- | ------- | -------------- |
+| İstanbul | Malatya | 28/10/2023     |
+| İzmir    | Kocaeli | 10/09/2023     |
+
  ## Kullandığım Teknolojiler
 
 | Adı                                       | Versiyonu      |
