@@ -1,6 +1,15 @@
 # BuBilet
  React Native kullanarak yapmış olduğum otobüs bileti alma uygulaması
 
+ ## Örnek Tablo
+
+| Adı           | Yaşı           | Mesleği        |
+| ------------- | -------------- | -------------- |
+| Ahmet         | 30             | Yazılımcı      |
+| Ayşe          | 28             | Tasarımcı      |
+| Mehmet        | 35             | Proje Yöneticisi |
+
+
  ## Projeyi Çalıştırma Aşaması
  - Öncelikle projeyi `git clone https://github.com/ramazanncelik/BuBilet.git` kodu ile klonlayın.
  - Daha sonra sanal cihaz veya kişisel cihazınızın bilgisayarınıza bağlı olacak şekilde proje dizininde `yarn start` kodunu çalıştırın.
